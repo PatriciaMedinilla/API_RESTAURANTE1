@@ -10,7 +10,9 @@ através de contraseñas y correo electrónico. La API consiste en ingresar usua
 - [Tecnologías](#-tecnologías)
 - [Componentes del trabajo](#-componentes-trabajo)
 - [Base de datos](#-base-datos)
-  
+- [Archivo schema.prisma](#-schema-prisma)
+- [Comandos de instalación](#-Instalación-configuración)
+ 
 ---
 
 ## 📌 Descripción General
